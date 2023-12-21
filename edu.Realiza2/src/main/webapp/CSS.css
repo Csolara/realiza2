@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+.titulo{
+	font-size: 2rem;
+	color: pink;
+	text-align: center;
+	background-color: lightgreen;
+	height: 125px;
+}
+.modelo{
+	transform: translateY(-86px);
+}
+.imagen1{
+	transform: translateX(-360px) translateY(86px)
+}
+.imagen2{
+	transform: translateX(360px) translateY(86px)
+}
+.fondo{
+	background-color: lightyellow;
+}
+.texto{
+font-size: 1.7rem;
+}
+.minititulo{
+	color: darkgrey;
+	font-size: 1.9rem;
+	text-align: center;
+}
+.pre{
+	background-color: black;
+	height: 50px;
+	transform: translateY(-13px);
+}
+.boton1{
+	transform: translateY(14px) translateX(152px);
+	width: 28%;
+}
+.boton2{
+	transform: translateY(14px) translateX(405px);
+	width: 28%;
+}
+.texto2{
+	background-color: darkgrey;
+	height: 1700px;
+	color: white;
+	text-align: center;
+}
+.productos{
+	font-size: 2rem;
+	transform: translateY(30px);
+}
+.jamon1{
+	transform: translateX(5px);
+}
+.jamon2{
+	transform: translateY(-5px)
+}
+.jamon3{
+	transform: translateY(-10px)
+}
+footer{
+	font-size: 1.2rem;
+	transform: translateX(40%);
+}
+hr{
+	transform: translateY(35px);
+}
